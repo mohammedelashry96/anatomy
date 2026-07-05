@@ -722,12 +722,12 @@ const UI={
  footer:["Built from standard atlas nomenclature (Netter, Atlas of Human Anatomy). Legend — nerve · artery · vein · muscle · bone. Progress is saved in this browser. Verify against your own atlas before the exam.","مبني على مصطلحات الأطلس المعيارية (Netter، أطلس التشريح البشري). المفتاح — عصب · شريان · وريد · عضلة · عظم. يُحفظ التقدّم في هذا المتصفح. تحقّق من أطلسك قبل الامتحان."],
  res85:["Excellent — atlas-ready.","ممتاز — جاهز للاختبار."], res70:["Solid. Review the misses below.","جيد. راجع الأخطاء أدناه."],
  res50:["Getting there — revisit the notes.","تتقدّم — عد للملاحظات."], res0:["Worth another pass through the notes.","يستحقّ مراجعة أخرى للملاحظات."],
- explainShow:["Explain like a teacher","اشرح كمعلّم"], explainHide:["Hide explanations","إخفاء الشروح"], teacherTag:["Teacher's note","شرح المعلّم"]
+ explainShow:["Explain ","اشرح"], explainHide:["Hide explanations","إخفاء الشروح"], Tag:["'s note","شرح"]
 };
 
 
 /* ============================================================
-   TEACHER EXPLANATIONS  ·  one per note block, in note order
+    EXPLANATIONS  ·  one per note block, in note order
    Each entry: [English, العربية]
    ============================================================ */
 const EXPLAIN={
